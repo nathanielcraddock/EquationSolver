@@ -1,0 +1,6 @@
+C:\Users\nasty\Documents\Visual Studio 2013\Projects\TeamLinkWebsite\FormulaSolver\FormulaSolver\bin\Debug\FormulaSolver.exe.config
+C:\Users\nasty\Documents\Visual Studio 2013\Projects\TeamLinkWebsite\FormulaSolver\FormulaSolver\bin\Debug\FormulaSolver.exe
+C:\Users\nasty\Documents\Visual Studio 2013\Projects\TeamLinkWebsite\FormulaSolver\FormulaSolver\bin\Debug\FormulaSolver.pdb
+C:\Users\nasty\Documents\Visual Studio 2013\Projects\TeamLinkWebsite\FormulaSolver\FormulaSolver\obj\Debug\FormulaSolver.csprojResolveAssemblyReference.cache
+C:\Users\nasty\Documents\Visual Studio 2013\Projects\TeamLinkWebsite\FormulaSolver\FormulaSolver\obj\Debug\FormulaSolver.exe
+C:\Users\nasty\Documents\Visual Studio 2013\Projects\TeamLinkWebsite\FormulaSolver\FormulaSolver\obj\Debug\FormulaSolver.pdb
